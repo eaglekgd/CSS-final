@@ -1,0 +1,47 @@
+h1{
+    color:red;
+    text-align: center;
+}
+
+#bgtoast{
+    opacity:50%;
+    display: inline-block;
+}
+
+#toasty{
+    font-weight: 500;
+    color:#303030;
+}
+
+#smalltoasty{
+    font-weight: 200;
+    color:white;
+
+}
+
+  #bgimage{
+      opacity:50%;
+      position:absolute;
+      z-index:-1;
+  }
+
+  #overlaytext{
+    position:relative;
+    background:transparent;
+    float:left;
+    clear:left;
+  }
+
+  #tagline{
+      clear:left;
+      position:relative;
+      left:20px;
+      font-size:xx-large;
+  }
+
+  .card{
+      clear:left;
+      float:left;
+      position:relative;
+      left:20px;
+  }
